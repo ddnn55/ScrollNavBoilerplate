@@ -351,3 +351,9 @@ li.scrollNav.active a{
 }
 
 /*---------- PAGE STRUCTURE [end] ----------*/
+
+#navLinks {
+  position:fixed;
+  left:0;
+  top:0;
+}
